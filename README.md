@@ -19,18 +19,18 @@ make sure you use good and a low cost components.
 There are different options for the voltage regulator, 
 FTDI communication adn so on...
 Full part list:
- 1 x ATMega328p- PU 
+1 x ATMega328p- PU https://2betrading.com/arduino/228-atmega328-avec-bootloader-arduino.html . 
 1 x ATMega328p- PU SOCKET 
 1 x FT232RLSSOP 
     OR: 1 x CH340 
-1 x AMS1117-5.0V 
+1 x AMS1117-5.0V https://2betrading.com/accueil/3180-module-ams1117-33v-regulateur-de-tension-ajustable-et-fixe.html . 
     OR: 1 x MC33269DR2-5 
-1 x 16MHz crystal 
-1 x MINI-B USB conn 
+1 x 16MHz crystal https://2betrading.com/quartz/3674-quartz-8mhz-8000mhz-dip-4.html . 
+1 x MINI-B USB conn https://2betrading.com/connectiques/2580-cable-usb-type-c.html .
 1 x smd push button 
 4 x female pins 
 1 x M7 diode 
-1 x 500mA fuse 
+1 x 500mA fuse https://2betrading.com/fusible/2308-fusible-7a-125v.html .
 1 x smd switch 
 3 x 0805 LEDs 
 5 x 0805 1k resistor 
