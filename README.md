@@ -45,6 +45,12 @@ Full part list:
 
 Wire, soldering iron, solder, etc...
 
+# original_schematic_of_an_Arduino_Uno
+
+
+![](https://electronoobs.io/uploads/project_images/182/4c5bde74a8f110656874902f07378009_1.png)
+
+
 # make an Arduino
 
 Ok, so first let’s decide what components we need? We must have the ATMega328-p microcontroller. We could have that in an AU or PU format. I’ll use PU format with a socket since I might want to remove the chip sometime.
