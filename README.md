@@ -22,8 +22,8 @@ make sure you use good and a low cost components.
 There are different options for the voltage regulator, 
 FTDI communication adn so on...
 Full part list:
-1 x ATMega328p- PU https://2betrading.com/arduino/228-atmega328-avec-bootloader-arduino.html . 
-1 x ATMega328p- PU SOCKET 
+<br /> 1 x ATMega328p- PU https://2betrading.com/arduino/228-atmega328-avec-bootloader-arduino.html . 
+<br /> 1 x ATMega328p- PU SOCKET 
 1 x FT232RLSSOP 
     OR: 1 x CH340 
 1 x AMS1117-5.0V https://2betrading.com/accueil/3180-module-ams1117-33v-regulateur-de-tension-ajustable-et-fixe.html . 
