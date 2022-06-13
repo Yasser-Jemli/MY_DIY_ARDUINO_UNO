@@ -1,5 +1,11 @@
 # DIY V1.0 ARDUINO UNO [under-construction]
 
+
+https://user-images.githubusercontent.com/92098387/173436450-d35bd012-5046-4c63-943f-126d340215c2.mp4
+
+
+
+
 There are many versions of Arduino using the Atmega328 chip. 
 There is the Arduino UNO, the NANO, 
 the pro mini and other versions of boards that use the same chip.
