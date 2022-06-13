@@ -1,4 +1,4 @@
-# DIY V1.0 ARDUINO UNO 
+# DIY V1.0 ARDUINO UNO [under-construction]
 
 There are many versions of Arduino using the Atmega328 chip. 
 There is the Arduino UNO, the NANO, 
