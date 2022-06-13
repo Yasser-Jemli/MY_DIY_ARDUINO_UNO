@@ -72,3 +72,9 @@ We also need a 5V voltage regulator,
 the USB plug and i will make a mini-USB because i just hate the USB-A that used in The ARDUINO_UNO ,
 a reset push button, female pins all around, 
 some extra capacitors, LEDs and a switch. 
+
+
+
+![Screenshot from 2022-06-12 19-02-28](https://user-images.githubusercontent.com/92098387/173310265-92fed43c-a0e2-4c3b-9a64-9688ce3c07a2.png)
+
+
