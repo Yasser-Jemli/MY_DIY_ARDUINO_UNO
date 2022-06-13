@@ -75,6 +75,5 @@ some extra capacitors, LEDs and a switch.
 
 
 
-![Screenshot from 2022-06-12 19-02-28](https://user-images.githubusercontent.com/92098387/173310265-92fed43c-a0e2-4c3b-9a64-9688ce3c07a2.png)
 
 
