@@ -11,7 +11,6 @@ You, see, Arduino is an open hardware development board, all the components are 
 I could gather all the components and make my own board and call it whatever I want. 
 also through this project you will learn essential things about how microcontrollers work and what components are needed for them to work properly  
 
-![alt text](https://www.google.com/search?q=arduino&client=ubuntu&hs=mwN&channel=fs&sxsrf=ALiCzsaR3k6oe3gQqf6pmc3lCebBbH5cqA:1655105945315&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLo76P9qn4AhUTi1wKHVi3Bw0Q_AUoAXoECAIQAw&biw=1600&bih=807&dpr=1.2#imgrc=YWmB1xWbeYqNrM)
 
 
 # What do we need?
@@ -21,6 +20,7 @@ If you make your own using other components,
 make sure you use good and a low cost components. 
 There are different options for the voltage regulator, 
 FTDI communication adn so on...
+
 Full part list:
 <br /> 1 x ATMega328p- PU https://2betrading.com/arduino/228-atmega328-avec-bootloader-arduino.html . 
 <br /> 1 x ATMega328p- PU SOCKET 
