@@ -11,7 +11,7 @@ You, see, Arduino is an open hardware development board, all the components are 
 I could gather all the components and make my own board and call it whatever I want. 
 also through this project you will learn essential things about how microcontrollers work and what components are needed for them to work properly  
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg)
 
 # What do we need?
 
