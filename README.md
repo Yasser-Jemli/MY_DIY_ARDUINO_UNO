@@ -57,6 +57,8 @@ Ok, so first let’s decide what components we need? We must have the ATMega328-
 Ok, the microcontroller can’t work by itself. It needs the bare minimum configuration in order to work. This is all it needs to work.
 make an Arduino ATMega328 bootloader
 
+![Schematic_arduino uno_2022-06-13](https://user-images.githubusercontent.com/92098387/173309899-7fd499dc-1672-4fcc-847d-7c39195aeed7.png)
+
 Now we have the bare minimum config on the breadboard and tested.
 If you were able to uplaod code to it using the FTDI module, 
 great. We can start with the project. Once this configuration works, 
