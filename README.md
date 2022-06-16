@@ -108,11 +108,11 @@ This board works exactly like the Arduino UNO, but it is made just how I wanted 
 
 you just need to go to the arduino website here : https://support.arduino.cc/hc/en-us/categories/360002212660-Software-and-Downloads
 dowload the IDE, and that's it !! 
-
+<br /> <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 # Fabrication 
 
 for the fabrication you can Upload the GERBER file that you will find in this repository and make the changes that you want in own Bored and make a Order 
-Or if you going to make it in a Local Tunisienne manifacture you can just contect 
+Or if you are going to make it in a local Tunisian manufacture, you can simply  you can just contect 
 <br /> <a href="https://linkedin.com/in/yasser-jamli-718582206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-jamli-718582206/" height="30" width="40" /></a>
 <a href="https://fb.com/yasser.jemli.14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasser.jemli.14/" height="30" width="40" /></a>
 </p>
