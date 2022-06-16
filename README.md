@@ -84,3 +84,23 @@ some extra capacitors, LEDs and a switch.
 
    ![Screenshot from 2022-06-13 09-20-01](https://user-images.githubusercontent.com/92098387/173310860-e0f19d26-c005-4f27-9e1a-8b9238da8982.png)
 
+# Burn The Bootloader
+
+
+Now, if the chip doesn’t have a bootloader burned to it you should burn iNow make these SPI connections between the stock Arduino and your board. Once the connections are made, go to tools and select burn bootloader. The LEDs will start blinking very fast. Once you get the message bootloader successfully burned you are good to go. t first. Here is what you need to burn a bootloader to a new ATMEGA chip:
+
+- Another Arduino UNO
+- Some jump cables and
+- USB cable
+
+Connect the Arduino UNO to your PC and open ARDUINO IDE. Select Arduino board and go to examples ==> Arduino ISP ==> and open this example. Now upload this file to the Arduino UNO (original one). Now go to tools and change the programmer to Arduino as ISP. 
+
+Now make these SPI connections between the stock Arduino and your board. Once the connections are made, go to tools and select burn bootloader. The LEDs will start blinking very fast. Once you get the message bootloader successfully burned you are good to go. 
+
+![noobino_12](https://user-images.githubusercontent.com/92098387/174144200-5afe389b-bb0c-4182-8277-f0124ddebde7.png)
+ 
+
+Connect the USB to your board, change back the programmer mode and upload a test sketch. There you go, I’ve made the LED blink with MY_DIY_ARDUINO_UNO  board. Pretty cool right?
+
+This board works exactly like the Arduino UNO, but it is made just how I wanted or you want it . More male pins so less using of breadbored , SPI pads here and great color Remeber you can choose the color of your bored buy changing The Solder-Mask color and it depens on your manufacuture capabilities and the color of the solder mask they have. You can find all the extra information, schematics, gerbers and photos in this repository . So there you have it guys. 
+
