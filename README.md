@@ -1,39 +1,10 @@
 # DIY V1.0 ARDUINO UNO [under-construction]
 
-<pre>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 https://user-images.githubusercontent.com/92098387/173436450-d35bd012-5046-4c63-943f-126d340215c2.mp4
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</pre>
 
 
 There are many versions of Arduino using the Atmega328 chip. 
