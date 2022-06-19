@@ -1,9 +1,10 @@
 # DIY V1.0 ARDUINO UNO [under-construction]
 
+<pre>
 
 https://user-images.githubusercontent.com/92098387/173436450-d35bd012-5046-4c63-943f-126d340215c2.mp4
 
-
+</pre>
 
 
 There are many versions of Arduino using the Atmega328 chip. 
@@ -17,7 +18,16 @@ You, see, Arduino is an open hardware development board, all the components are 
 I could gather all the components and make my own board and call it whatever I want. 
 also through this project you will learn essential things about how microcontrollers work and what components are needed for them to work properly  
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg)
+
+
+<pre>
+
+<p align="center">
+  <img width="460" height="500" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg">
+</p>
+
+</pre>
+
 
 # What do we need?
 
