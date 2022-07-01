@@ -12,11 +12,7 @@
 
 
 
-
-
-https://user-images.githubusercontent.com/92098387/173436450-d35bd012-5046-4c63-943f-126d340215c2.mp4
-
-
+https://github.com/Yasser-Jemli/MY_DIY_ARDUINO_UNO/issues/1#issue-1291484065
 
 
 
