@@ -1,5 +1,5 @@
 # DIY V1.0 ARDUINO UNO 
-<pre>
+
 
 
 
@@ -32,7 +32,6 @@ https://github.com/Yasser-Jemli/MY_DIY_ARDUINO_UNO/issues/1#issue-1291484065
 
 
 
-</pre>
 
 
 
